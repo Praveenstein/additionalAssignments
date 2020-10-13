@@ -1,0 +1,296 @@
+2020-10-12 22:20:58,575 -INFO - __main__- main_money.py - configure_logging - Configured Logging
+2020-10-12 22:20:58,607 -INFO - solutions.wallet.group_money- group_money.py - find_number_of_transition - The number of transitions are: 1
+2020-10-12 22:20:58,615 -INFO - __main__- main_money.py - main - Done
+2020-10-12 22:21:26,103 -INFO - __main__- main_money.py - configure_logging - Configured Logging
+2020-10-12 22:21:26,150 -INFO - solutions.wallet.group_money- group_money.py - find_number_of_transition - The number of transitions are: 2
+2020-10-12 22:21:26,160 -INFO - __main__- main_money.py - main - Done
+2020-10-12 22:22:21,061 -INFO - __main__- main_money.py - configure_logging - Configured Logging
+2020-10-12 22:22:21,108 -INFO - solutions.wallet.group_money- group_money.py - find_number_of_transition - The number of transitions are: 2
+2020-10-12 22:22:21,116 -INFO - __main__- main_money.py - main - Done
+2020-10-12 22:27:44,201 -INFO - __main__- main_money.py - configure_logging - Configured Logging
+2020-10-12 22:27:44,249 -INFO - solutions.wallet.group_money- group_money.py - find_number_of_transition - The number of transitions are: 2
+2020-10-12 22:27:44,261 -INFO - __main__- main_money.py - main - Done
+2020-10-12 22:40:41,750 -INFO - __main__- main_round_off.py - configure_logging - Configured Logging
+2020-10-12 22:40:41,751 -INFO - solutions.rounding.rounding_arrays- rounding_arrays.py - round_off - OLD ARRAY: [1.25, 2.75, 2, 5, 6, 3.55, 4.45]
+2020-10-12 22:40:41,751 -INFO - solutions.rounding.rounding_arrays- rounding_arrays.py - round_off - Sum of old array: 25.0
+2020-10-12 22:40:41,751 -INFO - solutions.rounding.rounding_arrays- rounding_arrays.py - round_off - New Array: [1, 3, 2, 5, 6, 4, 4]
+2020-10-12 22:40:41,751 -INFO - solutions.rounding.rounding_arrays- rounding_arrays.py - round_off - Sum of new array: 25
+2020-10-12 22:40:41,751 -INFO - __main__- main_round_off.py - main - Done
+2020-10-12 22:50:18,950 -INFO - __main__- main_round_off.py - configure_logging - Configured Logging
+2020-10-12 22:50:18,951 -INFO - solutions.rounding.rounding_arrays- rounding_arrays.py - round_off - OLD ARRAY: [1.25, 2.75, 2, 5, 6, 3.55, 4.45]
+2020-10-12 22:50:18,951 -INFO - solutions.rounding.rounding_arrays- rounding_arrays.py - round_off - Sum of old array: 25.0
+2020-10-12 22:50:18,951 -INFO - solutions.rounding.rounding_arrays- rounding_arrays.py - round_off - New Array: [1, 3, 2, 5, 6, 4, 4]
+2020-10-12 22:50:18,951 -INFO - solutions.rounding.rounding_arrays- rounding_arrays.py - round_off - Sum of new array: 25
+2020-10-12 22:50:18,951 -INFO - __main__- main_round_off.py - main - Done
+2020-10-12 22:54:58,351 -INFO - __main__- main_round_off.py - configure_logging - Configured Logging
+2020-10-12 22:54:58,351 -ERROR - solutions.rounding.rounding_arrays- rounding_arrays.py - round_off - The input should be an array
+2020-10-12 22:54:58,352 -INFO - __main__- main_round_off.py - main - Done
+2020-10-12 22:55:05,099 -INFO - __main__- main_round_off.py - configure_logging - Configured Logging
+2020-10-12 22:55:05,100 -INFO - solutions.rounding.rounding_arrays- rounding_arrays.py - round_off - OLD ARRAY: [1.25, 2.75, 2, 5, 6, 3.55, 4.45]
+2020-10-12 22:55:05,100 -INFO - solutions.rounding.rounding_arrays- rounding_arrays.py - round_off - Sum of old array: 25.0
+2020-10-12 22:55:05,100 -INFO - solutions.rounding.rounding_arrays- rounding_arrays.py - round_off - New Array: [1, 3, 2, 5, 6, 4, 4]
+2020-10-12 22:55:05,100 -INFO - solutions.rounding.rounding_arrays- rounding_arrays.py - round_off - Sum of new array: 25
+2020-10-12 22:55:05,100 -INFO - __main__- main_round_off.py - main - Done
+2020-10-12 22:58:31,692 -INFO - __main__- main_songs.py - configure_logging - Configured Logging
+2020-10-12 22:58:31,692 -ERROR - solutions.album.expected_songs- expected_songs.py - find_expected_songs - The number of songs in the album should be an integer
+2020-10-12 22:58:37,157 -INFO - __main__- main_songs.py - configure_logging - Configured Logging
+2020-10-12 22:58:37,157 -INFO - solutions.album.expected_songs- expected_songs.py - find_expected_songs - The expected number of songs are: 5.5
+2020-10-12 23:07:29,787 -INFO - __main__- main_cubes.py - configure_logging - Configured Logging
+2020-10-12 23:07:29,787 -INFO - solutions.cubes.piling_cubes- piling_cubes.py - check_for_piling - No
+2020-10-12 23:07:34,888 -INFO - __main__- main_cubes.py - configure_logging - Configured Logging
+2020-10-12 23:07:34,888 -INFO - solutions.cubes.piling_cubes- piling_cubes.py - check_for_piling - No
+2020-10-12 23:35:22,900 -INFO - __main__- main_cubes.py - configure_logging - Configured Logging
+2020-10-12 23:35:22,901 -INFO - solutions.cubes.piling_cubes- piling_cubes.py - check_for_piling - No
+2020-10-12 23:35:31,575 -INFO - __main__- main_cubes.py - configure_logging - Configured Logging
+2020-10-12 23:35:31,575 -ERROR - solutions.cubes.piling_cubes- piling_cubes.py - check_for_piling - The list items should be integer or float
+2020-10-12 23:35:38,785 -INFO - __main__- main_cubes.py - configure_logging - Configured Logging
+2020-10-12 23:35:38,786 -INFO - solutions.cubes.piling_cubes- piling_cubes.py - check_for_piling - No
+2020-10-12 23:57:46,847 -INFO - __main__- main_prime_factors.py - configure_logging - Configured Logging
+2020-10-12 23:57:46,847 -INFO - solutions.factorization.prime_factors- prime_factors.py - get_prime_factors_array - Prime Factors are: {2, 3, 5, 7, 2953, 727, 11, 19, 23, 151}
+2020-10-12 23:58:05,205 -INFO - __main__- main_prime_factors.py - configure_logging - Configured Logging
+2020-10-12 23:58:05,205 -ERROR - solutions.factorization.prime_factors- prime_factors.py - get_prime_factors_array - The list items should be integer
+2020-10-12 23:58:12,042 -INFO - __main__- main_prime_factors.py - configure_logging - Configured Logging
+2020-10-12 23:58:12,043 -ERROR - solutions.factorization.prime_factors- prime_factors.py - get_prime_factors_array - The list items should be integer
+2020-10-12 23:58:16,285 -INFO - __main__- main_prime_factors.py - configure_logging - Configured Logging
+2020-10-12 23:58:16,285 -INFO - solutions.factorization.prime_factors- prime_factors.py - get_prime_factors_array - Prime Factors are: {2, 3, 5, 7, 2953, 727, 11, 19, 23, 151}
+2020-10-13 00:03:29,670 -INFO - __main__- main_gram_schmidt.py - configure_logging - Configured Logging
+2020-10-13 00:03:29,670 -ERROR - solutions.orthogonalization.gram_schmidt- gram_schmidt.py - orthogonalize_vectors - The vectors items should be integer or float
+2020-10-13 00:04:46,973 -INFO - __main__- main_gram_schmidt.py - configure_logging - Configured Logging
+2020-10-13 00:08:55,094 -INFO - __main__- main_gram_schmidt.py - configure_logging - Configured Logging
+2020-10-13 00:09:06,770 -INFO - __main__- main_gram_schmidt.py - configure_logging - Configured Logging
+2020-10-13 00:09:44,680 -INFO - __main__- main_gram_schmidt.py - configure_logging - Configured Logging
+2020-10-13 00:09:44,680 -ERROR - solutions.orthogonalization.gram_schmidt- gram_schmidt.py - orthogonalize_vectors - The vectors should be a list
+2020-10-13 00:10:31,660 -INFO - __main__- main_gram_schmidt.py - configure_logging - Configured Logging
+2020-10-13 00:10:31,660 -ERROR - solutions.orthogonalization.gram_schmidt- gram_schmidt.py - orthogonalize_vectors - The vectors should be a list
+Traceback (most recent call last):
+  File "D:\Profession\Intern\Projects\python_additional\additionalAssignments\solutions\orthogonalization\gram_schmidt.py", line 97, in orthogonalize_vectors
+    raise ValueError("The vectors should be a list")
+ValueError: The vectors should be a list
+2020-10-13 00:11:04,984 -INFO - __main__- main_gram_schmidt.py - configure_logging - Configured Logging
+2020-10-13 00:15:20,753 -INFO - __main__- main_regex.py - configure_logging - Configured Logging
+2020-10-13 00:15:20,753 -ERROR - solutions.regular_expressions.regex- regex.py - categorize_words - The input should be string
+Traceback (most recent call last):
+  File "D:\Profession\Intern\Projects\python_additional\additionalAssignments\solutions\regular_expressions\regex.py", line 51, in categorize_words
+    raise ValueError("The input should be string")
+ValueError: The input should be string
+2020-10-13 00:15:35,741 -INFO - __main__- main_regex.py - configure_logging - Configured Logging
+2020-10-13 00:15:35,741 -INFO - solutions.regular_expressions.regex- regex.py - categorize_words - Lower Case Words: ['praveen']
+2020-10-13 00:15:35,742 -INFO - solutions.regular_expressions.regex- regex.py - categorize_words - Upper Case Words: ['PRAVEEN']
+2020-10-13 00:15:35,742 -INFO - solutions.regular_expressions.regex- regex.py - categorize_words - Mixed Case Words: ['Praveen']
+2020-10-13 00:15:35,742 -INFO - solutions.regular_expressions.regex- regex.py - categorize_words - AlphaNumeric Words: ['Praveen0606', '456abc']
+2020-10-13 00:15:35,742 -INFO - solutions.regular_expressions.regex- regex.py - categorize_words - Digits: ['5698432']
+2020-10-13 00:18:10,763 -INFO - __main__- main_round_off.py - configure_logging - Configured Logging
+2020-10-13 00:18:10,764 -INFO - solutions.rounding.rounding_arrays- rounding_arrays.py - round_off - OLD ARRAY: [1.25, 2.75, 2, 5, 6, 3.55, 4.45]
+2020-10-13 00:18:10,764 -INFO - solutions.rounding.rounding_arrays- rounding_arrays.py - round_off - Sum of old array: 25.0
+2020-10-13 00:18:10,764 -INFO - solutions.rounding.rounding_arrays- rounding_arrays.py - round_off - New Array: [1, 3, 2, 5, 6, 4, 4]
+2020-10-13 00:18:10,764 -INFO - solutions.rounding.rounding_arrays- rounding_arrays.py - round_off - Sum of new array: 25
+2020-10-13 00:18:10,764 -INFO - __main__- main_round_off.py - main - Done
+2020-10-13 00:18:17,509 -INFO - __main__- main_round_off.py - configure_logging - Configured Logging
+2020-10-13 00:18:17,509 -ERROR - solutions.rounding.rounding_arrays- rounding_arrays.py - round_off - The input should be an array
+2020-10-13 00:18:17,509 -INFO - __main__- main_round_off.py - main - Done
+2020-10-13 00:18:28,947 -INFO - __main__- main_round_off.py - configure_logging - Configured Logging
+2020-10-13 00:18:28,947 -ERROR - solutions.rounding.rounding_arrays- rounding_arrays.py - round_off - The list items should be integer or float
+2020-10-13 00:18:28,947 -INFO - __main__- main_round_off.py - main - Done
+2020-10-13 00:18:33,597 -INFO - __main__- main_round_off.py - configure_logging - Configured Logging
+2020-10-13 00:18:33,597 -INFO - solutions.rounding.rounding_arrays- rounding_arrays.py - round_off - OLD ARRAY: [1.25, 2.75, 2, 5, 6, 3.55, 4.45]
+2020-10-13 00:18:33,597 -INFO - solutions.rounding.rounding_arrays- rounding_arrays.py - round_off - Sum of old array: 25.0
+2020-10-13 00:18:33,598 -INFO - solutions.rounding.rounding_arrays- rounding_arrays.py - round_off - New Array: [1, 3, 2, 5, 6, 4, 4]
+2020-10-13 00:18:33,598 -INFO - solutions.rounding.rounding_arrays- rounding_arrays.py - round_off - Sum of new array: 25
+2020-10-13 00:18:33,598 -INFO - __main__- main_round_off.py - main - Done
+2020-10-13 00:21:40,187 -INFO - __main__- main_word_count.py - configure_logging - Configured Logging
+2020-10-13 00:21:40,187 -INFO - solutions.word_count.counter- counter.py - count_words - Word: the   Count: 2
+2020-10-13 00:21:40,188 -INFO - solutions.word_count.counter- counter.py - count_words - Word: quick   Count: 1
+2020-10-13 00:21:40,188 -INFO - solutions.word_count.counter- counter.py - count_words - Word: brown   Count: 1
+2020-10-13 00:21:40,188 -INFO - solutions.word_count.counter- counter.py - count_words - Word: fox   Count: 1
+2020-10-13 00:21:40,188 -INFO - solutions.word_count.counter- counter.py - count_words - Word: jumps   Count: 1
+2020-10-13 00:21:40,188 -INFO - solutions.word_count.counter- counter.py - count_words - Word: over   Count: 1
+2020-10-13 00:21:40,188 -INFO - solutions.word_count.counter- counter.py - count_words - Word: lazy   Count: 1
+2020-10-13 00:21:40,188 -INFO - solutions.word_count.counter- counter.py - count_words - Word: dog   Count: 1
+2020-10-13 00:21:40,188 -INFO - __main__- main_word_count.py - main - Done Counting
+2020-10-13 00:21:49,376 -INFO - __main__- main_word_count.py - configure_logging - Configured Logging
+2020-10-13 00:21:49,376 -ERROR - solutions.word_count.counter- counter.py - count_words - The sentence should be a string
+Traceback (most recent call last):
+  File "D:\Profession\Intern\Projects\python_additional\additionalAssignments\solutions\word_count\counter.py", line 35, in count_words
+    raise ValueError("The sentence should be a string")
+ValueError: The sentence should be a string
+2020-10-13 00:21:49,376 -INFO - __main__- main_word_count.py - main - Done Counting
+2020-10-13 00:21:54,178 -INFO - __main__- main_word_count.py - configure_logging - Configured Logging
+2020-10-13 00:21:54,179 -INFO - solutions.word_count.counter- counter.py - count_words - Word: the   Count: 2
+2020-10-13 00:21:54,179 -INFO - solutions.word_count.counter- counter.py - count_words - Word: quick   Count: 1
+2020-10-13 00:21:54,179 -INFO - solutions.word_count.counter- counter.py - count_words - Word: brown   Count: 1
+2020-10-13 00:21:54,179 -INFO - solutions.word_count.counter- counter.py - count_words - Word: fox   Count: 1
+2020-10-13 00:21:54,179 -INFO - solutions.word_count.counter- counter.py - count_words - Word: jumps   Count: 1
+2020-10-13 00:21:54,179 -INFO - solutions.word_count.counter- counter.py - count_words - Word: over   Count: 1
+2020-10-13 00:21:54,179 -INFO - solutions.word_count.counter- counter.py - count_words - Word: lazy   Count: 1
+2020-10-13 00:21:54,179 -INFO - solutions.word_count.counter- counter.py - count_words - Word: dog   Count: 1
+2020-10-13 00:21:54,179 -INFO - __main__- main_word_count.py - main - Done Counting
+2020-10-13 00:26:21,911 -INFO - __main__- main_xor.py - configure_logging - Configured Logging
+2020-10-13 00:26:29,192 -INFO - __main__- main_xor.py - main - [1, 2, 3, 4, 5, 6]
+2020-10-13 00:26:29,192 -INFO - __main__- main_xor.py - main - Starting to check the XOR operations
+2020-10-13 00:26:29,192 -INFO - solutions.xor_operation.testing_xor- testing_xor.py - checking_xor - The Xor of all elements of array: 7
+2020-10-13 00:26:29,192 -INFO - solutions.xor_operation.testing_xor- testing_xor.py - checking_xor - The Xor of elements at even index: 7
+2020-10-13 00:26:29,192 -INFO - solutions.xor_operation.testing_xor- testing_xor.py - checking_xor - The Xor of elements at odd index: 0
+2020-10-13 00:26:29,192 -INFO - solutions.xor_operation.testing_xor- testing_xor.py - checking_xor - The Xor of both even and odd: 7
+2020-10-13 00:26:29,192 -INFO - solutions.xor_operation.testing_xor- testing_xor.py - checking_xor - Checking if both are same: True
+2020-10-13 00:26:29,193 -INFO - __main__- main_xor.py - main - Done Checking
+2020-10-13 00:26:44,231 -INFO - __main__- main_xor.py - configure_logging - Configured Logging
+2020-10-13 00:26:49,405 -INFO - __main__- main_xor.py - main - [5, 6, 8, 3, 9]
+2020-10-13 00:26:49,405 -INFO - __main__- main_xor.py - main - Starting to check the XOR operations
+2020-10-13 00:26:49,405 -INFO - solutions.xor_operation.testing_xor- testing_xor.py - checking_xor - The Xor of all elements of array: 1
+2020-10-13 00:26:49,405 -INFO - solutions.xor_operation.testing_xor- testing_xor.py - checking_xor - The Xor of elements at even index: 4
+2020-10-13 00:26:49,405 -INFO - solutions.xor_operation.testing_xor- testing_xor.py - checking_xor - The Xor of elements at odd index: 5
+2020-10-13 00:26:49,405 -INFO - solutions.xor_operation.testing_xor- testing_xor.py - checking_xor - The Xor of both even and odd: 1
+2020-10-13 00:26:49,406 -INFO - solutions.xor_operation.testing_xor- testing_xor.py - checking_xor - Checking if both are same: True
+2020-10-13 00:26:49,406 -INFO - __main__- main_xor.py - main - Done Checking
+2020-10-13 00:27:08,804 -INFO - __main__- main_xor.py - configure_logging - Configured Logging
+2020-10-13 00:27:12,274 -INFO - __main__- main_xor.py - main - 5
+2020-10-13 00:27:12,274 -INFO - __main__- main_xor.py - main - Starting to check the XOR operations
+2020-10-13 00:27:12,275 -ERROR - solutions.xor_operation.testing_xor- testing_xor.py - checking_xor - The input should be a list
+Traceback (most recent call last):
+  File "D:\Profession\Intern\Projects\python_additional\additionalAssignments\solutions\xor_operation\testing_xor.py", line 79, in checking_xor
+    raise ValueError("The input should be a list")
+ValueError: The input should be a list
+2020-10-13 00:27:12,275 -INFO - __main__- main_xor.py - main - Done Checking
+2020-10-13 00:27:23,002 -INFO - __main__- main_xor.py - configure_logging - Configured Logging
+2020-10-13 00:27:25,263 -INFO - __main__- main_xor.py - main - [1]
+2020-10-13 00:27:25,263 -INFO - __main__- main_xor.py - main - Starting to check the XOR operations
+2020-10-13 00:27:25,263 -INFO - solutions.xor_operation.testing_xor- testing_xor.py - checking_xor - The Xor of all elements of array: 1
+2020-10-13 00:27:30,497 -INFO - __main__- main_xor.py - configure_logging - Configured Logging
+2020-10-13 00:27:33,585 -INFO - __main__- main_xor.py - main - [1, 2]
+2020-10-13 00:27:33,585 -INFO - __main__- main_xor.py - main - Starting to check the XOR operations
+2020-10-13 00:27:33,585 -INFO - solutions.xor_operation.testing_xor- testing_xor.py - checking_xor - The Xor of all elements of array: 3
+2020-10-13 00:27:33,585 -INFO - solutions.xor_operation.testing_xor- testing_xor.py - checking_xor - The Xor of elements at even index: 1
+2020-10-13 00:27:33,585 -INFO - solutions.xor_operation.testing_xor- testing_xor.py - checking_xor - The Xor of elements at odd index: 2
+2020-10-13 00:27:33,585 -INFO - solutions.xor_operation.testing_xor- testing_xor.py - checking_xor - The Xor of both even and odd: 3
+2020-10-13 00:27:33,585 -INFO - solutions.xor_operation.testing_xor- testing_xor.py - checking_xor - Checking if both are same: True
+2020-10-13 00:27:33,586 -INFO - __main__- main_xor.py - main - Done Checking
+2020-10-13 00:30:02,855 -INFO - __main__- main_xor.py - configure_logging - Configured Logging
+2020-10-13 00:30:05,838 -INFO - __main__- main_xor.py - main - [1]
+2020-10-13 00:30:05,839 -INFO - __main__- main_xor.py - main - Starting to check the XOR operations
+2020-10-13 00:30:05,839 -ERROR - solutions.xor_operation.testing_xor- testing_xor.py - checking_xor - The length of elements should not be less than 2
+Traceback (most recent call last):
+  File "D:\Profession\Intern\Projects\python_additional\additionalAssignments\solutions\xor_operation\testing_xor.py", line 86, in checking_xor
+    raise ValueError("The length of elements should not be less than 2")
+ValueError: The length of elements should not be less than 2
+2020-10-13 00:30:05,839 -INFO - __main__- main_xor.py - main - Done Checking
+2020-10-13 00:30:10,610 -INFO - __main__- main_xor.py - configure_logging - Configured Logging
+2020-10-13 00:30:13,794 -INFO - __main__- main_xor.py - main - [1, 2]
+2020-10-13 00:30:13,794 -INFO - __main__- main_xor.py - main - Starting to check the XOR operations
+2020-10-13 00:30:13,794 -INFO - solutions.xor_operation.testing_xor- testing_xor.py - checking_xor - The Xor of all elements of array: 3
+2020-10-13 00:30:13,794 -INFO - solutions.xor_operation.testing_xor- testing_xor.py - checking_xor - The Xor of elements at even index: 1
+2020-10-13 00:30:13,794 -INFO - solutions.xor_operation.testing_xor- testing_xor.py - checking_xor - The Xor of elements at odd index: 2
+2020-10-13 00:30:13,794 -INFO - solutions.xor_operation.testing_xor- testing_xor.py - checking_xor - The Xor of both even and odd: 3
+2020-10-13 00:30:13,794 -INFO - solutions.xor_operation.testing_xor- testing_xor.py - checking_xor - Checking if both are same: True
+2020-10-13 00:30:13,794 -INFO - __main__- main_xor.py - main - Done Checking
+2020-10-13 10:16:13,873 -INFO - __main__- main_cubes.py - configure_logging - Configured Logging
+2020-10-13 10:16:13,873 -INFO - solutions.cubes.piling_cubes- piling_cubes.py - check_for_piling - No
+2020-10-13 10:25:55,931 -INFO - __main__- main_cubes.py - configure_logging - Configured Logging
+2020-10-13 10:25:55,932 -INFO - solutions.cubes.piling_cubes- piling_cubes.py - check_for_piling - Yes
+2020-10-13 10:26:11,318 -INFO - __main__- main_cubes.py - configure_logging - Configured Logging
+2020-10-13 10:26:11,318 -INFO - solutions.cubes.piling_cubes- piling_cubes.py - check_for_piling - No
+2020-10-13 10:29:27,707 -INFO - __main__- main_cubes.py - configure_logging - Configured Logging
+2020-10-13 10:29:27,707 -INFO - solutions.cubes.piling_cubes- piling_cubes.py - check_for_piling - No
+2020-10-13 10:41:12,768 -INFO - __main__- main_gram_schmidt.py - configure_logging - Configured Logging
+2020-10-13 10:43:16,040 -INFO - __main__- main_gram_schmidt.py - configure_logging - Configured Logging
+2020-10-13 10:43:16,040 -ERROR - solutions.orthogonalization.gram_schmidt- gram_schmidt.py - orthogonalize_vectors - The number of vectors cannot be greater than it's dimension
+Traceback (most recent call last):
+  File "D:\Profession\Intern\Projects\python_additional\additionalAssignments\solutions\orthogonalization\gram_schmidt.py", line 100, in orthogonalize_vectors
+    raise ValueError("The number of vectors cannot be greater than it's dimension")
+ValueError: The number of vectors cannot be greater than it's dimension
+2020-10-13 10:43:57,763 -INFO - __main__- main_gram_schmidt.py - configure_logging - Configured Logging
+2020-10-13 10:43:57,763 -ERROR - solutions.orthogonalization.gram_schmidt- gram_schmidt.py - orthogonalize_vectors - The number of vectors cannot be greater than it's dimension
+Traceback (most recent call last):
+  File "D:\Profession\Intern\Projects\python_additional\additionalAssignments\solutions\orthogonalization\gram_schmidt.py", line 100, in orthogonalize_vectors
+    raise ValueError("The number of vectors cannot be greater than it's dimension")
+ValueError: The number of vectors cannot be greater than it's dimension
+2020-10-13 10:44:07,377 -INFO - __main__- main_gram_schmidt.py - configure_logging - Configured Logging
+2020-10-13 10:44:07,378 -ERROR - solutions.orthogonalization.gram_schmidt- gram_schmidt.py - orthogonalize_vectors - The number of vectors cannot be greater than it's dimension
+Traceback (most recent call last):
+  File "D:\Profession\Intern\Projects\python_additional\additionalAssignments\solutions\orthogonalization\gram_schmidt.py", line 100, in orthogonalize_vectors
+    raise ValueError("The number of vectors cannot be greater than it's dimension")
+ValueError: The number of vectors cannot be greater than it's dimension
+2020-10-13 10:44:30,117 -INFO - __main__- main_gram_schmidt.py - configure_logging - Configured Logging
+2020-10-13 10:46:13,290 -INFO - __main__- main_prime_factors.py - configure_logging - Configured Logging
+2020-10-13 10:46:13,291 -INFO - solutions.factorization.prime_factors- prime_factors.py - get_prime_factors_array - Prime Factors are: {2, 3, 5, 7, 2953, 727, 11, 19, 23, 151}
+2020-10-13 10:49:08,051 -INFO - __main__- main_prime_factors.py - configure_logging - Configured Logging
+2020-10-13 10:49:08,051 -INFO - solutions.factorization.prime_factors- prime_factors.py - get_prime_factors_array - Prime Factors are: {2, 3, 5, 7, 2953, 727, 11, 19, 23, 151}
+2020-10-13 10:50:23,652 -INFO - __main__- main_prime_factors.py - configure_logging - Configured Logging
+2020-10-13 10:50:23,652 -INFO - solutions.factorization.prime_factors- prime_factors.py - get_prime_factors_array - Prime Factors are: {2, 3, 5, 7, 2953, 727, 11, 19, 23, 151}
+2020-10-13 10:50:23,653 -INFO - __main__- main_prime_factors.py - main - Done
+2020-10-13 10:52:10,603 -INFO - __main__- main_regex.py - configure_logging - Configured Logging
+2020-10-13 10:52:10,603 -INFO - solutions.regular_expressions.regex- regex.py - categorize_words - Lower Case Words: ['praveen']
+2020-10-13 10:52:10,604 -INFO - solutions.regular_expressions.regex- regex.py - categorize_words - Upper Case Words: ['PRAVEEN']
+2020-10-13 10:52:10,604 -INFO - solutions.regular_expressions.regex- regex.py - categorize_words - Mixed Case Words: ['Praveen']
+2020-10-13 10:52:10,604 -INFO - solutions.regular_expressions.regex- regex.py - categorize_words - AlphaNumeric Words: ['Praveen0606', '456abc']
+2020-10-13 10:52:10,605 -INFO - solutions.regular_expressions.regex- regex.py - categorize_words - Digits: ['5698432']
+2020-10-13 10:54:14,334 -INFO - __main__- main_regex.py - configure_logging - Configured Logging
+2020-10-13 10:54:14,334 -INFO - solutions.regular_expressions.regex- regex.py - categorize_words - Lower Case Words: ['praveen']
+2020-10-13 10:54:14,335 -INFO - solutions.regular_expressions.regex- regex.py - categorize_words - Upper Case Words: ['PRAVEEN']
+2020-10-13 10:54:14,335 -INFO - solutions.regular_expressions.regex- regex.py - categorize_words - Mixed Case Words: ['Praveen']
+2020-10-13 10:54:14,336 -INFO - solutions.regular_expressions.regex- regex.py - categorize_words - AlphaNumeric Words: ['Praveen0606', '456abc']
+2020-10-13 10:54:14,336 -INFO - solutions.regular_expressions.regex- regex.py - categorize_words - Digits: ['5698432']
+2020-10-13 10:56:19,455 -INFO - __main__- main_round_off.py - configure_logging - Configured Logging
+2020-10-13 10:56:19,455 -INFO - solutions.rounding.rounding_arrays- rounding_arrays.py - round_off - OLD ARRAY: [1.25, 2.75, 2, 5, 6, 3.55, 4.45]
+2020-10-13 10:56:19,455 -INFO - solutions.rounding.rounding_arrays- rounding_arrays.py - round_off - Sum of old array: 25.0
+2020-10-13 10:56:19,455 -INFO - solutions.rounding.rounding_arrays- rounding_arrays.py - round_off - New Array: [1, 3, 2, 5, 6, 4, 4]
+2020-10-13 10:56:19,455 -INFO - solutions.rounding.rounding_arrays- rounding_arrays.py - round_off - Sum of new array: 25
+2020-10-13 10:56:19,455 -INFO - __main__- main_round_off.py - main - Done
+2020-10-13 10:58:42,030 -INFO - __main__- main_round_off.py - configure_logging - Configured Logging
+2020-10-13 10:58:42,030 -INFO - solutions.rounding.rounding_arrays- rounding_arrays.py - round_off - OLD ARRAY: [1.25, 2.75, 2.0, 5.0, 6.0, 3.55, 4.45]
+2020-10-13 10:58:42,031 -INFO - solutions.rounding.rounding_arrays- rounding_arrays.py - round_off - Sum of old array: 25.0
+2020-10-13 10:58:42,031 -INFO - solutions.rounding.rounding_arrays- rounding_arrays.py - round_off - New Array: [1, 3, 2, 5, 6, 4, 4]
+2020-10-13 10:58:42,031 -INFO - solutions.rounding.rounding_arrays- rounding_arrays.py - round_off - Sum of new array: 25
+2020-10-13 10:58:42,031 -INFO - __main__- main_round_off.py - main - Done
+2020-10-13 11:00:05,495 -INFO - __main__- main_songs.py - configure_logging - Configured Logging
+2020-10-13 11:00:05,496 -INFO - solutions.album.expected_songs- expected_songs.py - find_expected_songs - The expected number of songs are: 5.5
+2020-10-13 11:01:39,779 -INFO - __main__- main_round_off.py - configure_logging - Configured Logging
+2020-10-13 11:01:39,779 -INFO - solutions.rounding.rounding_arrays- rounding_arrays.py - round_off - OLD ARRAY: [1.25, 2.75, 2.0, 5.0, 6.0, 3.55, 4.45]
+2020-10-13 11:01:39,780 -INFO - solutions.rounding.rounding_arrays- rounding_arrays.py - round_off - Sum of old array: 25.0
+2020-10-13 11:01:39,780 -INFO - solutions.rounding.rounding_arrays- rounding_arrays.py - round_off - New Array: [1, 3, 2, 5, 6, 4, 4]
+2020-10-13 11:01:39,780 -INFO - solutions.rounding.rounding_arrays- rounding_arrays.py - round_off - Sum of new array: 25
+2020-10-13 11:01:39,780 -INFO - __main__- main_round_off.py - main - Done
+2020-10-13 11:03:45,638 -INFO - __main__- main_songs.py - configure_logging - Configured Logging
+2020-10-13 11:03:45,639 -INFO - solutions.album.expected_songs- expected_songs.py - find_expected_songs - The expected number of songs are: 5.5
+2020-10-13 11:05:35,343 -INFO - __main__- main_word_count.py - configure_logging - Configured Logging
+2020-10-13 11:05:35,343 -INFO - solutions.word_count.counter- counter.py - count_words - Word: the   Count: 2
+2020-10-13 11:05:35,344 -INFO - solutions.word_count.counter- counter.py - count_words - Word: quick   Count: 1
+2020-10-13 11:05:35,344 -INFO - solutions.word_count.counter- counter.py - count_words - Word: brown   Count: 1
+2020-10-13 11:05:35,344 -INFO - solutions.word_count.counter- counter.py - count_words - Word: fox   Count: 1
+2020-10-13 11:05:35,344 -INFO - solutions.word_count.counter- counter.py - count_words - Word: jumps   Count: 1
+2020-10-13 11:05:35,344 -INFO - solutions.word_count.counter- counter.py - count_words - Word: over   Count: 1
+2020-10-13 11:05:35,344 -INFO - solutions.word_count.counter- counter.py - count_words - Word: lazy   Count: 1
+2020-10-13 11:05:35,345 -INFO - solutions.word_count.counter- counter.py - count_words - Word: dog   Count: 1
+2020-10-13 11:05:35,345 -INFO - __main__- main_word_count.py - main - Done Counting
+2020-10-13 11:08:09,620 -INFO - __main__- main_word_count.py - configure_logging - Configured Logging
+2020-10-13 11:08:09,620 -INFO - solutions.word_count.counter- counter.py - count_words - Word: the   Count: 2
+2020-10-13 11:08:09,620 -INFO - solutions.word_count.counter- counter.py - count_words - Word: quick   Count: 1
+2020-10-13 11:08:09,621 -INFO - solutions.word_count.counter- counter.py - count_words - Word: brown   Count: 1
+2020-10-13 11:08:09,621 -INFO - solutions.word_count.counter- counter.py - count_words - Word: fox   Count: 1
+2020-10-13 11:08:09,621 -INFO - solutions.word_count.counter- counter.py - count_words - Word: jumps   Count: 1
+2020-10-13 11:08:09,621 -INFO - solutions.word_count.counter- counter.py - count_words - Word: over   Count: 1
+2020-10-13 11:08:09,621 -INFO - solutions.word_count.counter- counter.py - count_words - Word: lazy   Count: 1
+2020-10-13 11:08:09,621 -INFO - solutions.word_count.counter- counter.py - count_words - Word: dog   Count: 1
+2020-10-13 11:08:09,621 -INFO - __main__- main_word_count.py - main - Done Counting
+2020-10-13 11:12:27,743 -INFO - __main__- main_xor.py - configure_logging - Configured Logging
+2020-10-13 11:12:27,743 -INFO - __main__- main_xor.py - main - [1, 2, 5, 9, 6, 7]
+2020-10-13 11:12:27,743 -INFO - __main__- main_xor.py - main - Starting to check the XOR operations
+2020-10-13 11:12:27,743 -INFO - solutions.xor_operation.testing_xor- testing_xor.py - checking_xor - The Xor of all elements of array: 14
+2020-10-13 11:12:27,744 -INFO - solutions.xor_operation.testing_xor- testing_xor.py - checking_xor - The Xor of elements at even index: 2
+2020-10-13 11:12:27,744 -INFO - solutions.xor_operation.testing_xor- testing_xor.py - checking_xor - The Xor of elements at odd index: 12
+2020-10-13 11:12:27,744 -INFO - solutions.xor_operation.testing_xor- testing_xor.py - checking_xor - The Xor of both even and odd: 14
+2020-10-13 11:12:27,744 -INFO - solutions.xor_operation.testing_xor- testing_xor.py - checking_xor - Checking if both are same: True
+2020-10-13 11:12:27,744 -INFO - __main__- main_xor.py - main - Done Checking
+2020-10-13 11:14:43,661 -INFO - __main__- main_xor.py - configure_logging - Configured Logging
+2020-10-13 11:14:43,661 -INFO - __main__- main_xor.py - main - [1, 2, 5, 9, 6, 7]
+2020-10-13 11:14:43,661 -INFO - __main__- main_xor.py - main - Starting to check the XOR operations
+2020-10-13 11:14:43,661 -INFO - solutions.xor_operation.testing_xor- testing_xor.py - checking_xor - The Xor of all elements of array: 14
+2020-10-13 11:14:43,662 -INFO - solutions.xor_operation.testing_xor- testing_xor.py - checking_xor - The Xor of elements at even index: 2
+2020-10-13 11:14:43,662 -INFO - solutions.xor_operation.testing_xor- testing_xor.py - checking_xor - The Xor of elements at odd index: 12
+2020-10-13 11:14:43,662 -INFO - solutions.xor_operation.testing_xor- testing_xor.py - checking_xor - The Xor of both even and odd: 14
+2020-10-13 11:14:43,662 -INFO - solutions.xor_operation.testing_xor- testing_xor.py - checking_xor - Checking if both are same: True
+2020-10-13 11:14:43,662 -INFO - __main__- main_xor.py - main - Done Checking
+2020-10-13 11:29:46,863 -INFO - __main__- main_toeplitz.py - configure_logging - Configured Logging
+2020-10-13 11:31:21,684 -INFO - __main__- main_toeplitz.py - configure_logging - Configured Logging
+2020-10-13 11:31:46,638 -INFO - __main__- main_toeplitz.py - configure_logging - Configured Logging
+2020-10-13 11:32:09,894 -INFO - __main__- main_toeplitz.py - configure_logging - Configured Logging
+2020-10-13 11:34:30,733 -INFO - __main__- main_toeplitz.py - configure_logging - Configured Logging
